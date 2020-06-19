@@ -1,7 +1,7 @@
-import axios from 'axios';
+import axios from "axios";
 
 const api = axios.create({
-  baseURL: 'http://localhost:3333/api',
+  baseURL: "https://todoapp-caique.herokuapp.com/api",
 });
 
 export default api;
