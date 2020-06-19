@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.09e95c8b.chunk.css",
-    "main.js": "/static/js/main.8119267f.chunk.js",
-    "main.js.map": "/static/js/main.8119267f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
-    "static/css/2.b27f16ba.chunk.css": "/static/css/2.b27f16ba.chunk.css",
-    "static/js/2.7c0b1607.chunk.js": "/static/js/2.7c0b1607.chunk.js",
-    "static/js/2.7c0b1607.chunk.js.map": "/static/js/2.7c0b1607.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e05ec3d981d540adcba9cd4b4ab53f97.js": "/precache-manifest.e05ec3d981d540adcba9cd4b4ab53f97.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.b27f16ba.chunk.css.map": "/static/css/2.b27f16ba.chunk.css.map",
-    "static/css/main.09e95c8b.chunk.css.map": "/static/css/main.09e95c8b.chunk.css.map",
-    "static/js/2.7c0b1607.chunk.js.LICENSE.txt": "/static/js/2.7c0b1607.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/TodoApp-React-Redux/static/css/main.09e95c8b.chunk.css",
+    "main.js": "/TodoApp-React-Redux/static/js/main.6f181c3d.chunk.js",
+    "main.js.map": "/TodoApp-React-Redux/static/js/main.6f181c3d.chunk.js.map",
+    "runtime-main.js": "/TodoApp-React-Redux/static/js/runtime-main.644487f4.js",
+    "runtime-main.js.map": "/TodoApp-React-Redux/static/js/runtime-main.644487f4.js.map",
+    "static/css/2.becdaeb9.chunk.css": "/TodoApp-React-Redux/static/css/2.becdaeb9.chunk.css",
+    "static/js/2.7c0b1607.chunk.js": "/TodoApp-React-Redux/static/js/2.7c0b1607.chunk.js",
+    "static/js/2.7c0b1607.chunk.js.map": "/TodoApp-React-Redux/static/js/2.7c0b1607.chunk.js.map",
+    "index.html": "/TodoApp-React-Redux/index.html",
+    "precache-manifest.53a8fee5e2554e5269fc27548e470d80.js": "/TodoApp-React-Redux/precache-manifest.53a8fee5e2554e5269fc27548e470d80.js",
+    "service-worker.js": "/TodoApp-React-Redux/service-worker.js",
+    "static/css/2.becdaeb9.chunk.css.map": "/TodoApp-React-Redux/static/css/2.becdaeb9.chunk.css.map",
+    "static/css/main.09e95c8b.chunk.css.map": "/TodoApp-React-Redux/static/css/main.09e95c8b.chunk.css.map",
+    "static/js/2.7c0b1607.chunk.js.LICENSE.txt": "/TodoApp-React-Redux/static/js/2.7c0b1607.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/TodoApp-React-Redux/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8a21426.js",
-    "static/css/2.b27f16ba.chunk.css",
+    "static/js/runtime-main.644487f4.js",
+    "static/css/2.becdaeb9.chunk.css",
     "static/js/2.7c0b1607.chunk.js",
     "static/css/main.09e95c8b.chunk.css",
-    "static/js/main.8119267f.chunk.js"
+    "static/js/main.6f181c3d.chunk.js"
   ]
 }
